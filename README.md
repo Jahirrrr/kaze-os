@@ -1,9 +1,9 @@
-# Kaze Operating System
+# Project Silhouette: Kaze Operating System
 
 Kaze is a minimal operating system (OS) designed with a simple, in-memory filesystem. The OS is written in a combination of Assembly and C, focusing on providing basic filesystem functionalities, like file creation, reading, writing, listing, and deletion.
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/Jahirrrr/perpus21-page/refs/heads/main/jadicoy.png" alt="image"></a>
+<img src="https://raw.githubusercontent.com/Jahirrrr/perpus21-page/refs/heads/main/Kaze%20OS.jpg" alt="image"></a>
 </p>
 
 The project simulates a file system in memory, managing files and directories without reliance on external libraries like stdio.h or string.h. A custom kprint function is used for console output.
@@ -13,6 +13,11 @@ The project simulates a file system in memory, managing files and directories wi
 - No Dependency on Standard Libraries: Implemented without the use of stdio.h, string.h, or other C standard libraries.
 - Basic Terminal Support: Text output using custom kprint and kprint_newline functions.
 - Multiboot Compliant: The OS follows the multiboot specification for booting in an x86 environment.
+
+# Images
+<p align="center">
+<img src="https://raw.githubusercontent.com/Jahirrrr/perpus21-page/refs/heads/main/jadicoy.png" alt="image"></a>
+</p>
 
 # Installation and Compilation
 ## Prerequisites
